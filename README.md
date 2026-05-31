@@ -55,11 +55,10 @@ Echolang/
 │
 ├── echolang.py
 ├── README.md
-├── requirements.txt
 └── echolang_audio.mp3 (generated temporarily)
 ▶️ Installation
 Clone Repository
-git clone https://github.com/yourusername/Echolang.git
+git clone https://github.com/https://github.com/kathulavigneshwari96-art/echolang_TTS/tree/main/Echolang.git
 cd Echolang
 Install Required Libraries
 pip install gtts
